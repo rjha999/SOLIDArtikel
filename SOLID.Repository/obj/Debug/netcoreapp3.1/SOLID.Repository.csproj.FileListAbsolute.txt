@@ -1,0 +1,16 @@
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.Repository.deps.json
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.Repository.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.Repository.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.Common.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.DAL.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.IRepository.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.DAL.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.IRepository.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\bin\Debug\netcoreapp3.1\SOLID.Common.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Repository\obj\Debug\netcoreapp3.1\SOLID.Repository.csproj.CopyComplete

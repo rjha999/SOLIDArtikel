@@ -1,0 +1,15 @@
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.DAL.deps.json
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.DAL.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.DAL.runtimeconfig.json
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.DAL.runtimeconfig.dev.json
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.DAL.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.Common.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\bin\Debug\netcoreapp3.1\SOLID.Common.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.csproj.CopyComplete
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.genruntimeconfig.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.DAL\obj\Debug\netcoreapp3.1\SOLID.DAL.csproj.CoreCompileInputs.cache

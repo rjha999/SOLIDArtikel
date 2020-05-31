@@ -1,0 +1,59 @@
+﻿@model IEnumerable<SOLID.Common.Model.Artikel>
+
+@{
+    ViewData["Title"] = "Artikel";
+}
+
+<style>
+    .my-custom-scrollbar {
+        position: relative;
+        height: 60vh;
+        overflow: auto;
+    }
+
+    .table-wrapper-scroll-y {
+        display: block;
+    }
+</style>
+
+<p>
+    <a asp-action="Index" class="btn btn-primary">Upload Page</a>
+</p>
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar">
+
+    <table class="table table-bordered table-striped mb-0">
+        <thead>
+            <tr>
+                <th>Key</th>
+                <th>Artikel Code</th>
+                <th>Color Code</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Discount Price</th>
+                <th>Delivered In</th>
+                <th>Category Name</th>
+                <th>Size</th>
+                <th>Color Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Key</td>
+                    <td>@item.ArtikelCode</td>
+                    <td>@item.ColorCode.Code</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>@item.DiscountPrice</td>
+                    <td>@item.DeliveredIn</td>
+                    <td>@item.Category.Name</td>
+                    <td>@item.Size</td>
+                    <td>@item.Color.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

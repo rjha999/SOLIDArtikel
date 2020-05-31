@@ -1,0 +1,9 @@
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\bin\Debug\netcoreapp3.1\SOLID.Common.deps.json
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\bin\Debug\netcoreapp3.1\SOLID.Common.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\bin\Debug\netcoreapp3.1\SOLID.Common.pdb
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.dll
+C:\Users\Rahul\source\repos\SOLID\SOLID.Common\obj\Debug\netcoreapp3.1\SOLID.Common.pdb
