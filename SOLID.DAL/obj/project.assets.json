@@ -6126,11 +6126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.DAL\\SOLID.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.DAL\\SOLID.DAL.csproj",
       "projectName": "SOLID.DAL",
-      "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.DAL\\SOLID.DAL.csproj",
+      "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.DAL\\SOLID.DAL.csproj",
       "packagesPath": "C:\\Users\\Rahul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6151,8 +6151,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Common\\SOLID.Common.csproj": {
-              "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Common\\SOLID.Common.csproj"
+            "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Common\\SOLID.Common.csproj": {
+              "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Common\\SOLID.Common.csproj"
             }
           }
         }

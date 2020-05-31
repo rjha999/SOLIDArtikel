@@ -9231,11 +9231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.API\\SOLID.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.API\\SOLID.API.csproj",
       "projectName": "SOLID.API",
-      "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.API\\SOLID.API.csproj",
+      "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.API\\SOLID.API.csproj",
       "packagesPath": "C:\\Users\\Rahul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.API\\obj\\",
+      "outputPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9256,14 +9256,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Common\\SOLID.Common.csproj": {
-              "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Common\\SOLID.Common.csproj"
+            "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Common\\SOLID.Common.csproj": {
+              "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Common\\SOLID.Common.csproj"
             },
-            "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.DAL\\SOLID.DAL.csproj": {
-              "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.DAL\\SOLID.DAL.csproj"
+            "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.DAL\\SOLID.DAL.csproj": {
+              "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.DAL\\SOLID.DAL.csproj"
             },
-            "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Repository\\SOLID.Repository.csproj": {
-              "projectPath": "C:\\Users\\Rahul\\source\\repos\\SOLID\\SOLID.Repository\\SOLID.Repository.csproj"
+            "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Repository\\SOLID.Repository.csproj": {
+              "projectPath": "C:\\Users\\Rahul\\Desktop\\Matilion Test\\SOLIDArtikel\\SOLID.Repository\\SOLID.Repository.csproj"
             }
           }
         }

@@ -1,12 +1,12 @@
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csprojAssemblyReference.cache
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.AssemblyInfoInputs.cache
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.AssemblyInfo.cs
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.deps.json
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.dll
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.pdb
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.Common.dll
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.Common.pdb
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csproj.CopyComplete
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.dll
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.pdb
-C:\Users\Rahul\source\repos\SOLID\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.deps.json
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.dll
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.IRepository.pdb
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.Common.dll
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\bin\Debug\netcoreapp3.1\SOLID.Common.pdb
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.AssemblyInfoInputs.cache
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.AssemblyInfo.cs
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.csproj.CopyComplete
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.dll
+C:\Users\Rahul\Desktop\Matilion Test\SOLIDArtikel\SOLID.IRepository\obj\Debug\netcoreapp3.1\SOLID.IRepository.pdb
